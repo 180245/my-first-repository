@@ -1,0 +1,13 @@
+<!docktype html>
+<html>
+<head>
+
+<title>Assignment one </title>
+</head>
+<body>
+<h1>This is a title</h1>
+<p> paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph paragraph</p>
+<img src= "assignment_1/images/Mac.jpg">
+
+</body>
+</hmtl>
